@@ -195,6 +195,6 @@ public class Departamento implements Serializable{
 	}
 	
 	
-	
+	Actualizamos y modificamos en departamento
 	
 }
